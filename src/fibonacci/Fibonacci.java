@@ -9,21 +9,19 @@ public class Fibonacci {
 	private static Long op1 = (long) 1;
 	private static List<List<Long>> result = new ArrayList();
 	
-	public static void main(String[] args) {
-		
-		init(50);
-		
+	public static void main(String[] args) {	
+		init(50);	
 	}
-	
+	/**
+	 * 
+	 * @param param numero di righe della sequenza da mostrare
+	 */
 	private static void init(int param){
 		System.out.println(op0);
 		List<Long> tempA = new ArrayList<>();
 		tempA.add(op0);
 		tempA.add(op1);
-		
 		result.add(tempA);
-		
-
 		int i = 1;
 		while(i < param) {
 			List<Long> nextRow = new ArrayList<>();
