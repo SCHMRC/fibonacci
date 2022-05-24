@@ -16,4 +16,6 @@ Esercizio per la sequenza di Fibonacci, dato un numero, visualizzare il numero d
 1 11 55 165 330 462 462 330 165 55 11 1 
 1 12 66 220 495 792 924 792 495 220 66 12 1 
 
-``
+```
+
+<img width="571" alt="Schermata 2022-05-24 alle 12 14 55" src="https://user-images.githubusercontent.com/43820545/170008664-8c82d670-d327-4b06-ae8c-e9cb25fbaba0.png">
