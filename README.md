@@ -1,4 +1,4 @@
-Esercizio per la sequenza di Fibonacci, dato un numero, visualizzare il numero di rghe della sequenza di Fibonacci pari al numero dato.
+Esercizio con il triangolo di tartaglia datl quale è possibile ricavare la sequenza di Fibonacci
 
 
 ```
